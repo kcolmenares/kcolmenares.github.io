@@ -724,8 +724,11 @@ progress {
 }
 
 .selfie{
-    margin-left: 54%;
-    margin-top: -15%;
+  max-width: 100%;
+  height: auto;
+  float:right;
+  margin-left: 54%;
+  margin-top: -15%;
 }
 .col-auto {
   flex: 0 0 auto;
